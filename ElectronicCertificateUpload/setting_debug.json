@@ -1,17 +1,17 @@
 {
     "LogSetting":
     {
-        "LOG_FILE_PATH":"D:\\ElectronicCertificateUpload\\",
-        "LOG_ENABLED_FLAG":"True",
+        "LOG_FILE_PATH":"E:\\Work\\Code\\CSharp\\ElectronicCertificateUpload\\ElectronicCertificateUpload\\bin\\Debug\\",
+        "LOG_ENABLED_FLAG":"TRUE",
         "LOG_LEVEL":"Debug"
     },   
 
     "DataBaseSetting":
     {
-        "NativeDBConnectString": "vkrWjm+R7cdLjyOJAuJG0QIbHI1j8d6vRcJkBydG70ko5KYN5miuBOOuhc5HyjmlRg07zCknt0/2omuY9xiCBA1JlYmEHI+EkDydN3FqEb8=",
-        "MZDBConnectString": "sktIbefbziPKYcIdQHDOf4wBuoKDhXpjjX/NOgHCTv6I6EkPZNAPAx5OMKG6Shhd69r6Hdt3FVX0U39t0w13vbH1EKDhHZrz4j6LZiekA9NUARwJ2O2t3JmwVrShJqEI",
-        "ZYDBConnectString": "sktIbefbziPKYcIdQHDOf5jS8cJtDLKBPt3W+sIPecPikFH59KAkT5loszgaXricVE+eSDj03T+z9Ht4F1kan40adQWWa1jXrA19WxyJHTrGtM6VhKXrLRieOsQ99EAe",
-        "DZPJDBConnectString": "Hy31imT1WssnNBxZh2i5Fw2kLhrI/dV8QY6QBx4DwZSyJNc3b7g3sf4qgI3/v3J2ArlCoDxCKyJOfP/Jcws1X1ijN3JvCieNTHLCN0KDHNb2WcgjdJeZpGTc+MNwCyop"
+        "NativeDBConnectString": "AIjUUlR2kLzpv7BEQ/Maei4smE6JeRyTac3Jtur1/RqrMDG4ceRPsnf9kiQ1jGn5fcXbJDoQHArZU0yxW8re1pasS4+/SJOhOzhnYh6lD/2izElwbj/+yuLPzJedC5bHP0alRSVohYhbij6TcctJk1/JfLSaa6Z4lVIhFmRhBHk=",
+        "MZDBConnectString": "wktCl0DJT6+uaHaNkvHr9NEV4piXNWPVSMohVDTuLaQD5eFclwwGMSTS9JyGCadpCiXWJcTVu3V9Awzh2LzVndACdMVh5wrNd5xGqVCZXppcPx+JoStGff3OiJiOfUOf",
+        "ZYDBConnectString": "wktCl0DJT6+uaHaNkvHr9NEV4piXNWPVSMohVDTuLaQ5B83ZHSlo/x/6lt9SGAbpb/EltjjZ+KGQ6y3a0YIYTg/aZwPyw3xNa5NiUmFgHqY3LCLuyV7rvFQ92q4RTw6O",
+        "DZPJDBConnectString": "fJovDb38jIeBLhfQrHfVILDqrLRpG5wzThm0zk2oYy61jjoeRTyf0wGdYgKBCeTc6qoAsj1KhteV2W2doWpjLdSwzDDwGcPYCGr9LSl25+U="
     },
 
     "ComstomSetting":
@@ -20,9 +20,9 @@
         "SUPNINS_CODE": "500903", 
         "FIXMEDINS_CODE": "H50010603655",
         "FIXMEDINS_NAME": "重庆医科大学附属大学城医院",
-        "FIX_BLNG_ADMDVS": "500214"
+        "FIX_BLNG_ADMDVS": "500106"
     },
-    
+ 
     "DictionarySetting":
     {
         "UploadRanges": 
@@ -139,5 +139,5 @@
                 "Name": "23"
             }
         ]
-    }
+    }    
 }
