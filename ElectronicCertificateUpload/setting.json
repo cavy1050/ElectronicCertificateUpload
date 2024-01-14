@@ -1,0 +1,143 @@
+{
+    "LogSetting":
+    {
+        "LOG_FILE_PATH":"E:\\Work\\Code\\CSharp\\ElectronicCertificateUpload\\ElectronicCertificateUpload\\bin\\Debug\\",
+        "LOG_ENABLED_FLAG":"TRUE",
+        "LOG_LEVEL":"Debug"
+    },   
+
+    "DataBaseSetting":
+    {
+        "NativeDBConnectString": "AIjUUlR2kLzpv7BEQ/Maei4smE6JeRyTac3Jtur1/RqrMDG4ceRPsnf9kiQ1jGn5fcXbJDoQHArZU0yxW8re1pasS4+/SJOhOzhnYh6lD/2izElwbj/+yuLPzJedC5bHP0alRSVohYhbij6TcctJk1/JfLSaa6Z4lVIhFmRhBHk=",
+        "MZDBConnectString": "wktCl0DJT6+uaHaNkvHr9NEV4piXNWPVSMohVDTuLaQD5eFclwwGMSTS9JyGCadpCiXWJcTVu3V9Awzh2LzVndACdMVh5wrNd5xGqVCZXppcPx+JoStGff3OiJiOfUOf",
+        "ZYDBConnectString": "wktCl0DJT6+uaHaNkvHr9NEV4piXNWPVSMohVDTuLaQ5B83ZHSlo/x/6lt9SGAbpb/EltjjZ+KGQ6y3a0YIYTg/aZwPyw3xNa5NiUmFgHqY3LCLuyV7rvFQ92q4RTw6O",
+        "DZPJDBConnectString": "fJovDb38jIeBLhfQrHfVILDqrLRpG5wzThm0zk2oYy61jjoeRTyf0wGdYgKBCeTc6qoAsj1KhteV2W2doWpjLdSwzDDwGcPYCGr9LSl25+U="
+    },
+
+    "ComstomSetting":
+    {
+        "_SUPNINS_CODE":"参考重庆财政局地址(重庆市渝北区洪湖西路1号)匹配医保编码",
+        "SUPNINS_CODE": "500903", 
+        "FIXMEDINS_CODE": "H50010603655",
+        "FIXMEDINS_NAME": "重庆医科大学附属大学城医院",
+        "FIX_BLNG_ADMDVS": "500106"
+    },
+ 
+    "DictionarySetting":
+    {
+        "UploadRanges": 
+        [
+            {
+                "Code": "OutPatient",
+                "Name": "门诊"
+            },
+            {
+                "Code": "InHospital",
+                "Name": "住院"
+            },
+            {
+                "Code": "All",
+                "Name": "全部"
+            }
+        ],
+        "UploadTimePoints": 
+        [
+            {
+                "Code": "00",
+                "Name": "00"
+            },
+            {
+                "Code": "01",
+                "Name": "01"
+            },
+            {
+                "Code": "02",
+                "Name": "02"
+            },
+            {
+                "Code": "03",
+                "Name": "03"
+            },
+            {
+                "Code": "04",
+                "Name": "04"
+            },
+            {
+                "Code": "05",
+                "Name": "05"
+            },
+            {
+                "Code": "06",
+                "Name": "06"
+            },
+            {
+                "Code": "07",
+                "Name": "07"
+            },
+            {
+                "Code": "08",
+                "Name": "08"
+            },
+            {
+                "Code": "09",
+                "Name": "09"
+            },
+            {
+                "Code": "10",
+                "Name": "10"
+            },
+            {
+                "Code": "11",
+                "Name": "11"
+            },
+            {
+                "Code": "12",
+                "Name": "12"
+            },
+            {
+                "Code": "13",
+                "Name": "13"
+            },
+            {
+                "Code": "14",
+                "Name": "14"
+            },
+            {
+                "Code": "15",
+                "Name": "15"
+            },
+            {
+                "Code": "16",
+                "Name": "16"
+            },
+            {
+                "Code": "17",
+                "Name": "17"
+            },
+            {
+                "Code": "18",
+                "Name": "18"
+            },
+            {
+                "Code": "19",
+                "Name": "19"
+            },
+            {
+                "Code": "20",
+                "Name": "20"
+            },
+            {
+                "Code": "21",
+                "Name": "21"
+            },
+            {
+                "Code": "22",
+                "Name": "22"
+            },
+            {
+                "Code": "23",
+                "Name": "23"
+            }
+        ]
+    }    
+}
